@@ -1,4 +1,4 @@
-PROJECT_ROOT=C:\Users\shwet\OneDrive\Documents\Desktop\projects\github\ml-01-medi-mate-ml
+PROJECT_ROOT=Absolute path to project folder
 
 LOG_DIR=logs
 DATASET_DIR=dataset
