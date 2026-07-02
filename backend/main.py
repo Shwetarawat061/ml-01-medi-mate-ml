@@ -9,6 +9,7 @@ app = FastAPI(
     version="1.0.0"
 )
 
+
 # input schema matching training features
 class HeartDiseaseInput(BaseModel):
     age: int
